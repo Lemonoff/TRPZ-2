@@ -96,6 +96,42 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Screen 2_11.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screen 2_12.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screen 2_13.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screen 2_14.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screen 2_15.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screen 2_16.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screen 2_17.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screen 2_18.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Screen 2_19.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Screen 2_2.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -136,6 +172,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Screen 3_2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Screen 4.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -144,6 +184,13 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Resource Include="1513445269.jpg" />
+    <Resource Include="add-png-image-66868.png" />
+    <Resource Include="add-tab-ol-512.png" />
+    <Resource Include="descarga-png.png" />
+    <Resource Include="Download-Back-Button-Png-Image-59237-For-Designing-Projects.png" />
+    <Resource Include="Exit-PNG-Transparent-Image.png" />
+    <Resource Include="exit_PNG43.png" />
     <Resource Include="Fonts\BuxtonSketch.ttf" />
     <BlendEmbeddedFont Include="Fonts\segoeui.ttf">
       <IsSystemFont>True</IsSystemFont>
@@ -207,7 +254,10 @@
     </BlendEmbeddedFont>
     <Resource Include="Fonts\SketchFlow Print.ttf" />
     <Resource Include="Fonts\SegoeMarker.ttf" />
+    <Resource Include="Image1.png" />
+    <Resource Include="Octagon_delete.svg.png" />
     <Resource Include="Sketch.Flow" />
+    <Resource Include="survey-2316468_960_720.png" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Screen 1.xaml.cs">
       <DependentUpon>Screen 1.xaml</DependentUpon>
@@ -232,6 +282,33 @@
     </Compile>
     <Compile Include="Screen 2_10.xaml.cs">
       <DependentUpon>Screen 2_10.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screen 2_11.xaml.cs">
+      <DependentUpon>Screen 2_11.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screen 2_12.xaml.cs">
+      <DependentUpon>Screen 2_12.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screen 2_13.xaml.cs">
+      <DependentUpon>Screen 2_13.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screen 2_14.xaml.cs">
+      <DependentUpon>Screen 2_14.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screen 2_15.xaml.cs">
+      <DependentUpon>Screen 2_15.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screen 2_16.xaml.cs">
+      <DependentUpon>Screen 2_16.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screen 2_17.xaml.cs">
+      <DependentUpon>Screen 2_17.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screen 2_18.xaml.cs">
+      <DependentUpon>Screen 2_18.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screen 2_19.xaml.cs">
+      <DependentUpon>Screen 2_19.xaml</DependentUpon>
     </Compile>
     <Compile Include="Screen 2_2.xaml.cs">
       <DependentUpon>Screen 2_2.xaml</DependentUpon>
@@ -262,6 +339,9 @@
     </Compile>
     <Compile Include="Screen 3_1.xaml.cs">
       <DependentUpon>Screen 3_1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Screen 3_2.xaml.cs">
+      <DependentUpon>Screen 3_2.xaml</DependentUpon>
     </Compile>
     <Compile Include="Screen 4.xaml.cs">
       <DependentUpon>Screen 4.xaml</DependentUpon>

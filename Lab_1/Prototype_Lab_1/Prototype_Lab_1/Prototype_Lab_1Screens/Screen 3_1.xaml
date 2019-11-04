@@ -14,12 +14,12 @@
 				<GradientStop Color="#FF5EB9B4" Offset="1"/>
 			</LinearGradientBrush>
 		</Grid.Background>
-		<Rectangle Fill="#FFDBB7B7" Stroke="Black" Margin="150.4,33,160,175"/>
-		<TextBlock Margin="257.4,41.4,271.4,0" VerticalAlignment="Top" Height="22.4" Text="Remove section" TextWrapping="Wrap" FontWeight="Bold" FontSize="14.667" Background="#FF19A0A9"/>
-		<TextBlock Margin="168.6,75,249,0" VerticalAlignment="Top" Height="18.4" Text="Which section you want to delete?" TextWrapping="Wrap" FontSize="14.667" FontStyle="Italic"/>
+		<Rectangle Fill="#FFDBB7B7" Stroke="Black" Margin="137.4,32.2,150.6,175.8"/>
+		<TextBlock Margin="213.4,32.2,236.2,0" VerticalAlignment="Top" Height="22.4" TextWrapping="Wrap" FontWeight="Bold" FontSize="14.667" Background="#FF19A0A9"><Run Text="Delete data in"/><Run Text=" "/><Run Text="window"/><Run Text=" цшцштвш"/><Run Text=" "/></TextBlock>
+		<TextBlock Margin="168.6,75,186.6,0" VerticalAlignment="Top" Height="18.4" Text="Which section you want to delete data from?" TextWrapping="Wrap" FontSize="14.667" FontStyle="Italic"/>
 		<CheckBox HorizontalAlignment="Left" Margin="171,110.2,0,0" VerticalAlignment="Top" Width="94.4" Height="17.6" Content="Book" Background="White"/>
 		<CheckBox Margin="269.4,110.2,271.4,0" VerticalAlignment="Top" Height="17.6" Content="Writer" Background="#FFE3CECE"/>
-		<CheckBox HorizontalAlignment="Right" Margin="0,110.2,173,0" VerticalAlignment="Top" Width="98.4" Height="17.6" Content="Own preferenc"/>
+		<CheckBox HorizontalAlignment="Right" Margin="0,110.2,164.2,0" VerticalAlignment="Top" Width="107.2" Height="17.6" Content="Own preferences"/>
 		<CheckBox Margin="269.4,127.8,271.4,0" VerticalAlignment="Top" Height="21.6" Content="Sections"/>
 		<Button Margin="269.4,165.6,271.4,0" VerticalAlignment="Top" Height="21.6" Content="Delete">
 			<Button.Background>

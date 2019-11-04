@@ -19,18 +19,18 @@
 		<TextBlock HorizontalAlignment="Left" Margin="115.6,69.8,0,0" VerticalAlignment="Top" Width="138.4" Height="25.6" FontFamily="Times New Roman" FontSize="16" TextWrapping="Wrap"><Run Text="Results for "/><Run FontWeight="Bold" Text="&quot;smth&quot;"/></TextBlock>
 		<Rectangle Fill="White" Stroke="Black" HorizontalAlignment="Left" Margin="116.4,137,0,239" Width="200"/>
 		<Rectangle Fill="White" Stroke="Black" HorizontalAlignment="Left" Margin="117.2,0,0,98.2" VerticalAlignment="Bottom" Width="199.2" Height="126.4"/>
-		<TextBlock HorizontalAlignment="Left" Margin="131.6,137,0,0" VerticalAlignment="Top" Width="95.2" Height="20.8" FontSize="16" FontWeight="Bold" Text="Books" TextWrapping="Wrap"/>
-		<TextBlock HorizontalAlignment="Left" Margin="131.6,0,0,201.4" VerticalAlignment="Bottom" Width="95.2" Height="23.2" FontSize="16" FontWeight="Bold" Text="Writers" TextWrapping="Wrap"/>
+		<TextBlock HorizontalAlignment="Left" Margin="131.6,137,0,0" VerticalAlignment="Top" Width="95.2" Height="20.8" FontSize="16" FontWeight="Bold" Text="Book" TextWrapping="Wrap"/>
+		<TextBlock HorizontalAlignment="Left" Margin="131.6,0,0,201.4" VerticalAlignment="Bottom" Width="95.2" Height="23.2" FontSize="16" FontWeight="Bold" Text="Writer" TextWrapping="Wrap"/>
 		<local:Screen_2_6 Margin="95.2,8,211.2,0" VerticalAlignment="Top" Height="36.8" d:IsPrototypingComposition="True"/>
 		<TextBlock HorizontalAlignment="Left" Margin="115.6,95.4,0,0" VerticalAlignment="Top" Width="66.4" Height="20.8" Text="Jump to:" TextWrapping="Wrap"/>
-		<TextBlock HorizontalAlignment="Left" Margin="171.6,96.2,0,0" VerticalAlignment="Top" Width="55.2" Height="20.8" FontSize="13.333" FontStyle="Italic" Text="Books" TextDecorations="Underline" TextWrapping="Wrap">
+		<TextBlock HorizontalAlignment="Left" Margin="171.6,96.2,0,0" VerticalAlignment="Top" Width="55.2" Height="20.8" FontSize="13.333" FontStyle="Italic" Text="Book" TextDecorations="Underline" TextWrapping="Wrap">
 			<i:Interaction.Triggers>
 				<i:EventTrigger EventName="MouseDown">
 					<pb:NavigateToScreenAction TargetScreen="Prototype_Lab_1Screens.Screen_2_3"/>
 				</i:EventTrigger>
 			</i:Interaction.Triggers>
 		</TextBlock>
-		<TextBlock HorizontalAlignment="Left" Margin="226.8,96.2,0,0" VerticalAlignment="Top" Width="60.8" Height="20" FontSize="13.333" FontStyle="Italic" Text="Writers" TextDecorations="Underline" TextWrapping="Wrap">
+		<TextBlock HorizontalAlignment="Left" Margin="226.8,96.2,0,0" VerticalAlignment="Top" Width="60.8" Height="20" FontSize="13.333" FontStyle="Italic" Text="Writer" TextDecorations="Underline" TextWrapping="Wrap">
 			<i:Interaction.Triggers>
 				<i:EventTrigger EventName="MouseDown">
 					<pb:NavigateToScreenAction TargetScreen="Prototype_Lab_1Screens.Screen_3"/>

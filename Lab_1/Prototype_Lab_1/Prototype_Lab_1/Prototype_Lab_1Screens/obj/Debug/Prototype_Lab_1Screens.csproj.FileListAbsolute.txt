@@ -1,0 +1,68 @@
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\bin\Debug\Prototype_Lab_1.Screens.dll
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\bin\Debug\Prototype_Lab_1.Screens.pdb
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\ResolveAssemblyReference.cache
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 1_4.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_10.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_2.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_6.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_7.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_9.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 3_1.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 4.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\SketchStyles.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 1.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 1_1.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 1_2.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 1_3.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 1_4.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_1.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_10.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_2.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_3.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_4.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_5.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_6.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_7.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_8.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_9.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 3.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 3_1.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 4.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Prototype_Lab_1.Screens_MarkupCompile.cache
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Prototype_Lab_1.Screens_MarkupCompile.lref
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 1.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 1_1.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 1_2.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 1_3.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_1.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_3.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_4.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_5.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_8.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 3.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Prototype_Lab_1.Screens.g.resources
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Prototype_Lab_1.Screens.dll
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Prototype_Lab_1.Screens.pdb
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_11.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_11.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_12.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_13.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_14.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 3_2.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_12.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_13.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_14.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 3_2.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_15.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_16.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_17.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_18.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_19.baml
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_15.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_16.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_17.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_18.g.cs
+C:\JleMoNoff\Other files\Education\5th semester\TRPZ 2\Lab_1\Prototype_Lab_1\Prototype_Lab_1\Prototype_Lab_1Screens\obj\Debug\Screen 2_19.g.cs

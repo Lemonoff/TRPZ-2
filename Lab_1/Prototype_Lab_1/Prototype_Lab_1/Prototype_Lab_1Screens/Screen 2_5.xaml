@@ -4,7 +4,7 @@
 	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
 	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
 	mc:Ignorable="d"
-	xmlns:local="clr-namespace:Prototype_Lab_1Screens" x:Name="Screen_2_5_Name"
+	xmlns:local="clr-namespace:Prototype_Lab_1Screens" xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:pb="clr-namespace:Microsoft.Expression.Prototyping.Behavior;assembly=Microsoft.Expression.Prototyping.Interactivity" x:Name="Screen_2_5_Name"
 	x:Class="Prototype_Lab_1Screens.Screen_2_5"
 	Width="640" Height="480">
 
@@ -15,12 +15,18 @@
 				<GradientStop Color="#FF5EB9B4" Offset="1"/>
 			</LinearGradientBrush>
 		</Grid.Background>
-		<Rectangle Fill="#FFF2EDF3" Stroke="Black" Margin="145.8,71.7,147.4,44.7"/>
+		<Rectangle Fill="#FFF2EDF3" Stroke="Black" Margin="141.8,72.5,151.4,43.9"/>
 		<TextBlock Margin="235.8,83.7,250.6,0" VerticalAlignment="Top" Height="26.4" Text="Sections" TextWrapping="Wrap" TextAlignment="Center" FontWeight="Bold" FontFamily="Segoe UI Semibold" FontSize="18.667" Background="#FFECCDCD"/>
 		<TextBlock HorizontalAlignment="Left" Margin="166.2,128.1,0,0" VerticalAlignment="Top" Width="103.2" Height="21.6" Text="Name of book:" TextWrapping="Wrap" FontWeight="Bold" FontSize="14.667" Background="#FFC2AEAE"/>
-		<TextBlock Margin="273.4,129.3,273,0" VerticalAlignment="Top" Height="20.4" TextWrapping="Wrap" Background="White"/>
+		<TextBlock Margin="273.4,129.3,265,0" VerticalAlignment="Top" Height="20.4" TextWrapping="Wrap" Background="White" Text=" Example of name">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseDown">
+					<pb:NavigateToScreenAction TargetScreen="Prototype_Lab_1Screens.Screen_2_3"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</TextBlock>
 		<TextBlock HorizontalAlignment="Left" Margin="166.2,153.7,0,0" VerticalAlignment="Top" Width="145.2" Height="21.6" FontSize="14.667" FontWeight="Bold" Text="Amount of sections:" TextWrapping="Wrap" Background="#FFC2AEAE"/>
-		<TextBlock Margin="311.4,154.9,308.2,0" VerticalAlignment="Top" Height="20.4" Background="White" TextWrapping="Wrap"/>
+		<TextBlock Margin="311.4,154.9,308.2,0" VerticalAlignment="Top" Height="20.4" Background="White" TextWrapping="Wrap" Text=" 2"/>
 		<ScrollViewer Margin="190.2,192.9,183.4,73.5"/>
 		<TextBlock Margin="193.8,192.9,308.2,0" VerticalAlignment="Top" Height="27.6" Text="Section 1" TextWrapping="Wrap" FontFamily="Times New Roman" FontSize="16" FontWeight="Bold" Background="#FFECCDCD"/>
 		<TextBlock Margin="206,220.5,213.4,227.1" Background="#FF994D4D" TextWrapping="Wrap"><Run FontWeight="Bold" Text="Chapter 1"/><Run Text=": Name_of_chapter...xx-xx pages"/></TextBlock>

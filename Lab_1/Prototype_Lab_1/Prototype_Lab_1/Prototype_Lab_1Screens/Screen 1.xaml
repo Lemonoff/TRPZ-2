@@ -24,6 +24,11 @@
 		<Rectangle Margin="221.8,155,242.2,0" VerticalAlignment="Top" Height="24.8" Stroke="Black" Fill="White"/>
 		<Rectangle Fill="White" Stroke="Black" Margin="221.8,214.2,242.2,0" VerticalAlignment="Top" Height="24.8"/>
 		<Button Margin="236.8,0,251,78" VerticalAlignment="Bottom" Height="21.6" Content="Create your account">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pb:NavigateToScreenAction TargetScreen="Prototype_Lab_1Screens.Screen_2"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
 			<Button.Background>
 				<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
 					<GradientStop Color="#FFF3F3F3" Offset="0"/>

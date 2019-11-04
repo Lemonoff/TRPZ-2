@@ -21,7 +21,7 @@
 			</LinearGradientBrush>
 		</Grid.OpacityMask>
 		<Rectangle Fill="#FFDBB7B7" Stroke="Black" Margin="157.6,45.8,167.2,219.8"/>
-		<TextBlock Margin="260.8,56.4,272.8,0" VerticalAlignment="Top" Height="19.2" Text="Add new partition" TextWrapping="Wrap" FontWeight="Bold" Background="#FF33B9A8"/>
+		<TextBlock Margin="260.8,56.4,262.4,0" VerticalAlignment="Top" Height="19.2" Text="Create new partition" TextWrapping="Wrap" FontWeight="Bold" Background="#FF33B9A8"/>
 		<TextBlock HorizontalAlignment="Left" Margin="169.6,88.4,0,0" VerticalAlignment="Top" Width="116" Height="18.4" Text="Title:" TextWrapping="Wrap" FontWeight="Bold" FontSize="13.333" Background="#FFFFF7F7"/>
 		<TextBlock HorizontalAlignment="Left" Margin="171.2,117.2,0,0" VerticalAlignment="Top" Width="114.4" Height="17.6" Text="Fields:" TextWrapping="Wrap" FontSize="13.333" FontWeight="Bold" Background="White"/>
 		<TextBlock HorizontalAlignment="Left" Margin="170.4,149.2,0,0" VerticalAlignment="Top" Width="115.2" Height="17.6" Text="Description:" TextWrapping="Wrap" FontWeight="Bold" Background="White"/>
